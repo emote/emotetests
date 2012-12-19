@@ -1,0 +1,20 @@
+{
+  "author": "Mike Schilling <mike@emotive.com>",
+  "name": "emotetests",
+  "description": "Emotive command line tool tests",
+  "version": "2.0.0",
+  "homepage": "http://www.emotive.com",
+  "preferGlobal": "false",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emote/emotetests"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "license" : "MIT/X11",
+  "engines": {
+    "node": ">=0.8.3"
+  }
+}
